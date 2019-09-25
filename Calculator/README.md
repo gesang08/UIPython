@@ -5,6 +5,6 @@
 可以实现包括加减乘除取余、三角函数、log函数、sqrt函数、清空、删除等计算器功能
 
 ### 结果显示
-![image](https://github.com/gesang08/UIPython/blob/master/Calculator/results/calcResult1.png)
+![image](https://github.com/gesang08/UIPython/raw/master/Calculator/results/calcResult1.png)
 
-![image](https://github.com/gesang08/UIPython/blob/master/Calculator/results/calcResult2.png)
+![image](https://github.com/gesang08/UIPython/raw/master/Calculator/results/calcResult2.png)
